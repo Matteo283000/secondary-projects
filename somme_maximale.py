@@ -18,5 +18,5 @@ def somme_maximale(liste):
         
     return f"Liste initiale --> {liste}\nSomme maximale --> {somme_max}\nSon intervalle --> {intervalle_somme_max}"
 
-
-print(somme_maximale([3, -2, 5, -1, 6, -3, 2]))
+# Exemple
+print(somme_maximale([5, 4, 2, -4, -3, -9, 6]))
