@@ -33,7 +33,6 @@ Il met l’accent sur :
 ### 🛠️ Prérequis
 
 * Python 3
-Les scripts peuvent être exécutés individuellement avec Python 3.
 
 Dans le Terminal:
 ```bash
